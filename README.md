@@ -26,10 +26,10 @@ The dataset used is nobel.csv, which contains information such as:
 
 
 ### 📊 Example Visualizations
-🥧 Pie charts of Nobel Prize distribution by country and category
-📈 Line plots showing U.S. dominance by decade
-👩‍🔬 Scatter plots comparing gender, age, and category over time
-🌍 Country-based age distributions of modern Nobel winners
+> 🥧 Pie charts of Nobel Prize distribution by country and category
+> 📈 Line plots showing U.S. dominance by decade
+> 👩‍🔬 Scatter plots comparing gender, age, and category over time
+> 🌍 Country-based age distributions of modern Nobel winners
 
 ### 🧰 Libraries Used
 | Library                  | Purpose                                   |
