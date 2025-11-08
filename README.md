@@ -6,12 +6,12 @@ In this project, we explore and visualize data about Nobel Prize winners to unco
 ### 📁 Dataset
 
 The dataset used is nobel.csv, which contains information such as:
--Full name of laureates
--Award category
--Birth country
--Gender
--Year of award
--Birth date
+-- Full name of laureates
+-- Award category
+-- Birth country
+-- Gender
+-- Year of award
+-- Birth date
 
 ### 💡 Project Objectives
 
