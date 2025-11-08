@@ -32,10 +32,12 @@ The dataset used is nobel.csv, which contains information such as:
 🌍 Country-based age distributions of modern Nobel winners
 
 ### 🧰 Libraries Used
-#### Library	              Purpose
-NumPy	                  Numerical computations
-Pandas	                Data manipulation and filtering
-Matplotlib / Seaborn	  Visualization of trends and distribution
+| Library                  | Purpose                                   |
+| ------------------------ | ----------------------------------------- |
+| **NumPy**                | Numerical computations                    |
+| **Pandas**               | Data manipulation and filtering           |
+| **Matplotlib / Seaborn** | Visualization of trends and distributions |
+
 
 ### 🧠 Insights
 
