@@ -15,14 +15,14 @@ The dataset used is nobel.csv, which contains information such as:
 
 ### 💡 Project Objectives
 
-# 1-Identify the top 10 countries with the most Nobel Prizes.
-# 1-List the first female Nobel Prize winners.
-# 3-List the first male Nobel Prize winners.
-# 4-Analyze when the USA began its dominance in Nobel Prizes and discuss contributing factors.
-# 5-Visualize gender, age, category, and year data to interpret demographic trends.
-# 6-Visualize countries and categories of winners during 1938–1945, and discuss wartime effects.
-# 7-Visualize the same for 1947–1991, with separate plots per category.
-# 8-Analyze 2000 and beyond, visualizing the age and country distribution by category
+1-Identify the top 10 countries with the most Nobel Prizes.
+2-List the first female Nobel Prize winners.
+3-List the first male Nobel Prize winners.
+4-Analyze when the USA began its dominance in Nobel Prizes and discuss contributing factors.
+5-Visualize gender, age, category, and year data to interpret demographic trends.
+6-Visualize countries and categories of winners during 1938–1945, and discuss wartime effects.
+7-Visualize the same for 1947–1991, with separate plots per category.
+8-Analyze 2000 and beyond, visualizing the age and country distribution by category
 
 
 ### 📊 Example Visualizations
@@ -32,14 +32,14 @@ The dataset used is nobel.csv, which contains information such as:
 🌍 Country-based age distributions of modern Nobel winners
 
 ### 🧰 Libraries Used
-# Library	              Purpose
+#### Library	              Purpose
 NumPy	                  Numerical computations
 Pandas	                Data manipulation and filtering
 Matplotlib / Seaborn	  Visualization of trends and distribution
 
 ### 🧠 Insights
 
-# The United States became the dominant country in Nobel Prizes after the mid-20th century.
-# Male laureates significantly outnumber female laureates, though female participation increases post-2000.
-# The average age of winners varies by category, with Peace and Literature prizes awarded at later ages.
-# The World War II period shows clear disruptions in award distributions.
+* The United States became the dominant country in Nobel Prizes after the mid-20th century.
+* Male laureates significantly outnumber female laureates, though female participation increases post-2000.
+* The average age of winners varies by category, with Peace and Literature prizes awarded at later ages.
+* The World War II period shows clear disruptions in award distributions.
